@@ -1,0 +1,6 @@
+C:\Users\Frank Franken\Documents\Visual Studio 2015\Projects\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\Rock Paper Scissors Lizard Spock.exe.config
+C:\Users\Frank Franken\Documents\Visual Studio 2015\Projects\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\Rock Paper Scissors Lizard Spock.csprojResolveAssemblyReference.cache
+C:\Users\Frank Franken\Documents\Visual Studio 2015\Projects\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\Rock Paper Scissors Lizard Spock.exe
+C:\Users\Frank Franken\Documents\Visual Studio 2015\Projects\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\bin\Debug\Rock Paper Scissors Lizard Spock.pdb
+C:\Users\Frank Franken\Documents\Visual Studio 2015\Projects\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\Rock Paper Scissors Lizard Spock.exe
+C:\Users\Frank Franken\Documents\Visual Studio 2015\Projects\Rock Paper Scissors Lizard Spock\Rock Paper Scissors Lizard Spock\obj\Debug\Rock Paper Scissors Lizard Spock.pdb
