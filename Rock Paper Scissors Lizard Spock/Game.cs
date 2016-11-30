@@ -35,8 +35,9 @@ namespace Rock_Paper_Scissors_Lizard_Spock
                     int checker = 0;
                     Console.WriteLine("player1 turn");
                     int p1 = player1.Pick();
+                    Console.Clear();
                     Console.WriteLine("player2 turn");
-                    int p2 = player2.Pick();
+                    int p2 = player2.Pick();                  
                     checker = (5 + p1 - p2) % 5;
 
                     if (checker == 1 || checker == 3)
