@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Rock_Paper_Scissors_Lizard_Spock
 {
-    class Player
+    public class Player
     {
+
+        public int chooseOption;
+        public int playerScore;
+        
+
+        public virtual int Pick()
+        {
+            return chooseOption;
+        }
     }
 }
+
+
